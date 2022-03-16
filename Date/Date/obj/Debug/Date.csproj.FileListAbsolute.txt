@@ -1,0 +1,6 @@
+C:\Users\kiran\source\repos\Date\Date\bin\Debug\Date.exe.config
+C:\Users\kiran\source\repos\Date\Date\bin\Debug\Date.exe
+C:\Users\kiran\source\repos\Date\Date\bin\Debug\Date.pdb
+C:\Users\kiran\source\repos\Date\Date\obj\Debug\Date.csproj.CoreCompileInputs.cache
+C:\Users\kiran\source\repos\Date\Date\obj\Debug\Date.exe
+C:\Users\kiran\source\repos\Date\Date\obj\Debug\Date.pdb
